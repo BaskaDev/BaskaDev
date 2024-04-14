@@ -4,7 +4,12 @@
  ### Welcome to mi GitHub page!
  
   <img src="back.gif" width="1700" />  
- 
+
+ # 
+
+ ### About Me
+ I'm a Software Developer passionate about technology, specialized in the Java ecosystem with practical experience in the Spring framework, Angular for frontend development, and Oracle databases. My main focus lies in creating innovative and efficient solutions that drive project success. I constantly seek to learn and improve my technical skills to tackle new challenges and make meaningful contributions to collaborative development teams.
+
 #
  ### Social
 

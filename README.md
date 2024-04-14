@@ -3,9 +3,12 @@
 
  ### Welcome to mi GitHub page!
  
-  <img src="back.gif" width="1700" />  
 
- # 
+  #  [![LinkedIn](back.gif)](https://www.linkedin.com/in/jhon-alexander-hernandez-bernal-baska/) 
+
+
+
+
 
  ### About Me
  I'm a Software Developer passionate about technology, specialized in the Java ecosystem with practical experience in the Spring framework, Angular for frontend development, and Oracle databases. My main focus lies in creating innovative and efficient solutions that drive project success. I constantly seek to learn and improve my technical skills to tackle new challenges and make meaningful contributions to collaborative development teams.
@@ -14,7 +17,7 @@
  ### Social
 
 #
-# ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoL2McJfiCqo46WZQgCcdYQ) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+# ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-alexander-hernandez-bernal-baska/) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoL2McJfiCqo46WZQgCcdYQ) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ### Skills
 #

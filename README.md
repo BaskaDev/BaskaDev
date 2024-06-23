@@ -1,5 +1,5 @@
  #
- # <img src="bob.gif" width="100">  Hey! Nice to see you.🫡 
+ # <img src="bob.gif" width="100">  Hey! Nice to see you.
 
  ### Welcome to mi GitHub page!
  

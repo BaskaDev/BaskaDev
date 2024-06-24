@@ -31,7 +31,7 @@
 
 #
 
-![BaskaDev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaskaDev&layout=compact&theme=dark)
+![BaskaDev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)
 
 
 [![BaskaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaskaDev&theme=dracula)]()
